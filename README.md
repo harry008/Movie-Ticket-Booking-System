@@ -1,4 +1,4 @@
-# Movie-Ticket-Booking-System
+# Movie Ticket Booking System
 
 #### Built using C++ and database backend as SQLite
 
